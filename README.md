@@ -52,13 +52,17 @@ Key Findings
 •	Higher training accuracy did not necessarily lead to better real-world performance
 ________________________________________
 Getting Started
+
 Clone the Repository
-git clone https://github.com/your-username/CNN-Performance-Evaluation-System.git
-cd CNN-Performance-Evaluation-System
+git clone https://github.com/janibshradha24/Machine-Learning-Assignment.git 
+cd Machine-Learning-Assignment
+
 Install Dependencies
 pip install -r requirements.txt
+
 Run the Notebook
 jupyter notebook CNN_Performance_Evaluation.ipynb
+
 Run all cells to reproduce:
 •	Model training
 •	Training accuracy plots
@@ -67,20 +71,7 @@ Run all cells to reproduce:
 •	Confusion matrix analysis
 ________________________________________
 Repository Structure
-CNN-Performance-Evaluation-System/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── CNN_Performance_Evaluation.ipynb
-├── CNN_Performance_Presenation.pptx
-├── Transcript.pdf
-│
-└── figures/
-    ├── training_accuracy.png
-    ├── training_loss.png
-    ├── test_accuracy.png
-    └── confusion_matrix.png
+Machine-Learning-Assignment/ │ ├── README.md ├── LICENSE ├── requirements.txt ├── CNN_Performance_Evaluation.ipynb ├── CNN_Performance_Presentation.pptx ├── Transcript.pdf ├── training_accuracy.png ├── training_loss.png ├── test_accuracy.png └── confusion_matrix.png
 ________________________________________
 Technologies Used
 •	Python
