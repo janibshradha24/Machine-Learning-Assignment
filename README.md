@@ -71,7 +71,7 @@ Run all cells to reproduce:
 •	Confusion matrix analysis
 ________________________________________
 Repository Structure
-Machine-Learning-Assignment/ │ ├── README.md ├── LICENSE ├── requirements.txt ├── CNN_Performance_Evaluation.ipynb ├── CNN_Performance_Presentation.pptx ├── Transcript.pdf ├── training_accuracy.png ├── training_loss.png ├── test_accuracy.png └── confusion_matrix.png
+Machine-Learning-Assignment/ │ ├── README.md ├── LICENSE ├── requirements.txt ├── CNN_Performance_Evaluation.ipynb ├── CNN_Performance_Evaluation.pdf ├── Transcript.pdf ├── training_accuracy.png ├── training_loss.png ├── test_accuracy.png └── confusion_matrix.png
 ________________________________________
 Technologies Used
 •	Python
